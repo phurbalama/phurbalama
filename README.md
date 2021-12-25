@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm a Java Developer
+- 🌱 I’m currently learning Spring Boot, React
+
+[![Phurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=phurbalama)](https://github.com/phurbalama/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phurbalama&layout=compact)](https://github.com/phurbalama/github-readme-stats)
