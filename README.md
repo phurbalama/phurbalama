@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/plama/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://github.com/phurbalama/phurbalama/blob/e32c5b00b6a5baf275e2b65cdfa3f29b3e964a93/linkedin.svg" />
 </a>
--
+
 [![Phurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=phurbalama)](https://github.com/phurbalama/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phurbalama&layout=compact)](https://github.com/phurbalama/github-readme-stats)
