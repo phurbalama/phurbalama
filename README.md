@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Phurba Lama!👋
 
 <!--
 **phurbalama/phurbalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm a Java Developer
+- 🔭 I'm a Full Stack Developer
 - 🌱 I’m currently learning Spring Boot, React
+
+**Connect with me :**
+
+<a href="https://www.linkedin.com/in/plama/" target="_blank">
+  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="" />
+</a>
 
 [![Phurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=phurbalama)](https://github.com/phurbalama/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phurbalama&layout=compact)](https://github.com/phurbalama/github-readme-stats)
