@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm a Full Stack Developer
 - 🌱 I’m currently learning Spring Boot, React
+- 💰 I love learning about finance (investing & personal finance)
+- ⚡ Fun fact: I love playing golf and League of Legend
 
 **Connect with me :**
 
